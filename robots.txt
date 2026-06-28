@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://permata.nett.to/sitemap.xml
